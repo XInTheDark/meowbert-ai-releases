@@ -1,9 +1,9 @@
 {
-  "tag": "desktop-v2026.10.25",
-  "version": "2026.10.25",
+  "tag": "desktop-v2026.10.26",
+  "version": "2026.10.26",
   "sourceRepository": "XInTheDark/meowbert-ai-agent",
-  "sourceSha": "d8720e9b18db1800b3c12eeaae5451db35845f2f",
+  "sourceSha": "2eb340c04acad5174639db8ccf02333361f371fa",
   "sourceRef": "main",
-  "buildRunId": 40160354027,
-  "publishedAt": "2026-10-25T04:09:24.999946+00:00"
+  "buildRunId": 40163679661,
+  "publishedAt": "2026-10-25T05:05:18.860983+00:00"
 }
