@@ -1,8 +1,8 @@
 {
-  "tag": "desktop-v2026.11.2",
-  "version": "2026.11.2",
+  "tag": "desktop-v2026.11.3",
+  "version": "2026.11.3",
   "sourceRepository": "XInTheDark/meowbert-ai-agent",
-  "sourceSha": "d4d1663af50a04641cce70c8ec4408f0dd700704",
-  "sourceRef": "desktop-v2026.11.2",
-  "publishedAt": "2026-11-10T10:12:34.650Z"
+  "sourceSha": "9f9f7382a2af75ea9df8e292f32491710d5805b9",
+  "sourceRef": "desktop-v2026.11.3",
+  "publishedAt": "2026-11-10T12:54:21.343Z"
 }
